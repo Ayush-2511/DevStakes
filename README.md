@@ -10,9 +10,9 @@
 | Detail | Info |
 |---|---|
 | Duration | 3.5 days (84 hours) |
-| Team Size | 4 members (at least 1 girl mandatory) |
+| Team Size | 4-5 members (at least 1 girl mandatory) |
 | Primary Focus | React (Frontend) |
-| Bonus Points | Up to +10 for backend, ML integration, or strong system design |
+| Bonus Points | Up to +20 for backend, ML integration, or strong system design |
 
 ---
 
@@ -48,7 +48,7 @@
 | Idea Bonus *(custom only)* | Originality & quality of self-proposed idea | 0–5 |
 | **Total** | | **100** |
 
-> **+10 bonus points** available for implementing a backend, integrating ML models, or demonstrating strong system design.
+> **+20 bonus points** available for implementing a backend, integrating ML models, or demonstrating strong system design.
 
 ---
 
@@ -127,8 +127,8 @@ Have a unique idea not listed above? Propose it!
 
 ## Rules
 
-1. Teams must have **exactly 4 members**, with **at least 1 girl**.
-2. The primary tech stack must be **React** (frontend-first).
+1. Teams must have **4 to 5 members**, with **at least 1 girl**.
+2. The primary tech stack must be **React based** (frontend-first).
 3. Each team must choose **one idea** — either from the given set or a custom approved idea.
 4. Teams submitting a custom idea can submit a **maximum of 2 ideas** for review.
 5. Teams selecting from the given set may **begin coding at 12PM on Day-0**.
